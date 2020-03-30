@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #03738C;
+		background: #312450;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2536,11 +2536,11 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #03738C;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #01586b;
 				}
 
 				.wrapper.style2 .icon.major:before {
